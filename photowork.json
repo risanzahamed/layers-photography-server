@@ -1,0 +1,50 @@
+[
+    {
+        "serviceName": "Wild Photography",
+        "image": "https://templates.hibootstrap.com/povi/default/assets/img/service/service-6.jpg",
+        "categoryName": "Wild Photography",
+        "ratings": "4.9",
+        "details": "Quisque sodales lorem vel condimentum porttitor. Aenean rutrum dui faucibus magna finibus.",
+        "PackagePrice": "$2110 per day"
+    },
+    {
+        "serviceName": "Live Videography",
+        "image": "https://templates.hibootstrap.com/povi/default/assets/img/service/service-5.jpg",
+        "categoryName": "Live Videography",
+        "ratings": "4.8",
+        "details": "Quisque sodales lorem vel condimentum porttitor. Aenean rutrum dui faucibus magna finibus.",
+        "packagePrice": "$3000 per day"
+    },
+    {
+        "serviceName": "Editing Services",
+        "image": "https://templates.hibootstrap.com/povi/default/assets/img/service/service-3.jpg",
+        "categoryName": "Editing Services",
+        "ratings": "5.0",
+        "details": "Quisque sodales lorem vel condimentum porttitor. Aenean rutrum dui faucibus magna finibus.",
+        "packagePrice": "$800 per video"
+    },
+    {
+        "serviceName": "Branding",
+        "image": "https://templates.hibootstrap.com/povi/default/assets/img/breadcrumb/br-1.png",
+        "categoryName": "Branding",
+        "ratings": "5.0",
+        "details": "Quisque sodales lorem vel condimentum porttitor. Aenean rutrum dui faucibus magna finibus.",
+        "packagePrice": "$2500"
+    },
+    {
+        "serviceName": "Wedding Photography",
+        "image": "https://templates.hibootstrap.com/povi/default/assets/img/service/service-4.jpg",
+        "categoryName": "Wedding Photography",
+        "ratings": "4.2",
+        "details": "Quisque sodales lorem vel condimentum porttitor. Aenean rutrum dui faucibus magna finibus.",
+        "packagePrice": "$250"
+    },
+    {
+        "serviceName": "Live Event",
+        "image": "https://templates.hibootstrap.com/povi/default/assets/img/service/single-service-1.jpg",
+        "categoryName": "Live Event",
+        "ratings": "4.4",
+        "details": "Quisque sodales lorem vel condimentum porttitor. Aenean rutrum dui faucibus magna finibus.",
+        "Package Price": "$250"
+    }
+]
